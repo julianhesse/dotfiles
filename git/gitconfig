@@ -1,0 +1,13 @@
+[user]
+	name = Julian Hesse
+	email = julian.hesse@fu-berlin.de
+	
+[credential]
+	helper = store --file ~/.git-credentials
+
+[github]
+	user = julianhesse
+[push]
+	default = current
+[pull]
+	rebase = false

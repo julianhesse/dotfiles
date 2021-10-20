@@ -1,0 +1,15 @@
+# oh-my-zsh
+robbyrussell/oh-my-zsh
+robbyrussell/oh-my-zsh path:plugins/aws
+robbyrussell/oh-my-zsh path:plugins/git
+robbyrussell/oh-my-zsh path:plugins/colored-man-pages
+
+# zsh-plugins
+mafredri/zsh-async
+zsh-users/zsh-completions
+zsh-users/zsh-autosuggestions
+zsh-users/zsh-syntax-highlighting
+
+# theme
+romkatv/powerlevel10k
+## sindresorhus/pure
