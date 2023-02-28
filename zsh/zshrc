@@ -8,7 +8,7 @@ source ~/.dotfiles/zsh/functions/functions.zsh
 
 source ~/.dotfiles/zsh/env.zsh
 
-source ~/.local/bin/virtualenvwrapper.sh
+# source ~/.local/bin/virtualenvwrapper.sh
 
 # To customize prompt, run `p10k configure` or edit ~/.p10k.zsh.
 [[ -f ~/.p10k.zsh ]] && source ~/.p10k.zsh
