@@ -4,3 +4,4 @@ export SHELL=/usr/bin/zsh
 export TERMINAL_CMD="terminator -e"
 export TERMINFO=/usr/share/terminator
 alias tmux="TERM=screen-256color-bce tmux"
+alias vim=nvim
