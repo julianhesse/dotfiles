@@ -13,7 +13,7 @@ fi
 source ~/.dotfiles/.antidote/antidote.zsh
 antidote load ~/.dotfiles/zsh/plugins.txt
 
-source ~/.zsh_plugins.sh
+source ~/.dotfiles/zsh/plugins.zsh
 
 source ~/.dotfiles/zsh/functions/functions.zsh
 
